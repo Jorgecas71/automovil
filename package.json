@@ -1,0 +1,11 @@
+{
+  "name": "automovil",
+  "version": "1.0.0",
+  "description": "Marca: el nombre del fabricante.",
+  "main": "index.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "jorge",
+  "license": "ISC"
+}
