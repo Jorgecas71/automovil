@@ -1,8 +1,8 @@
 package dev.jorge;
 
-import dev.jorge.vehicle.enums.CarType;
-import dev.jorge.vehicle.enums.Color;
-import dev.jorge.vehicle.enums.FuelType;
+import dev.jorge.enums.CarType;
+import dev.jorge.enums.Color;
+import dev.jorge.enums.FuelType;
 
 public class AppVehicle {
 

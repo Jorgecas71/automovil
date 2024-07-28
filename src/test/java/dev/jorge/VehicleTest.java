@@ -6,10 +6,9 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 
 import org.junit.jupiter.api.Test;
 
-import dev.jorge.vehicle.Vehicle;
-import dev.jorge.vehicle.enums.CarType;
-import dev.jorge.vehicle.enums.Color;
-import dev.jorge.vehicle.enums.FuelType;
+import dev.jorge.enums.CarType;
+import dev.jorge.enums.Color;
+import dev.jorge.enums.FuelType;
 
 public class VehicleTest {
 
